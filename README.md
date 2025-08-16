@@ -42,6 +42,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 ###### This is an `<h6>` header, which is the smallest
 ```
+# YEAH
 
 #### How it looks
 
